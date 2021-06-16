@@ -7,5 +7,6 @@ package com.wzk.gittest;
 public class Git2 {
     public static void main(String[] args) {
         System.out.println("Git2dev");
+        System.out.println("Git2dev");
     }
 }
